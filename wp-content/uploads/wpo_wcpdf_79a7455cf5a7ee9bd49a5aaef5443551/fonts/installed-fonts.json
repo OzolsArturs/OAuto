@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/OpenSans-Normal",
+        "bold": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/OpenSans-Bold",
+        "italic": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/Segoe-Normal",
+        "bold": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/Segoe-Bold",
+        "italic": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/Segoe-Italic",
+        "bold_italic": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/RobotoSlab-Normal",
+        "bold": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/RobotoSlab-Bold",
+        "italic": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/currencies",
+        "bold": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/currencies",
+        "italic": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/currencies",
+        "bold_italic": "\/var\/www\/html\/wp-content\/uploads\/wpo_wcpdf_79a7455cf5a7ee9bd49a5aaef5443551\/fonts\/currencies"
+    }
+}

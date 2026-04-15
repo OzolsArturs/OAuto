@@ -1,0 +1,4 @@
+2026-04-15T08:38:49+00:00 CRITICAL Unable to create folder /var/www/html/wp-content/uploads/wpo_wcpdf/attachments/
+2026-04-15T08:41:54+00:00 INFO Template setting migrated from /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2026-04-15T08:41:59+00:00 CRITICAL WPO\IPS\Documents\SequentialNumberStore::init: Table 'wordpress.wp_wcpdf_invoice_number' doesn't exist
+Query: DESCRIBE wp_wcpdf_invoice_number;
